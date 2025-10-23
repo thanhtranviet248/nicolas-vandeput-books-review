@@ -12,4 +12,4 @@ This repository stores my Python practices with techniques mentioned the book, i
 - Machine Learning methods: Linear Regression, Decision Tree, Random Forest, Extremely Randomized Trees, AdaBoost, XGBoost, K-means Clustering, Parameter Optimization with K-Fold Cross-Validation and RandomSearch.
 
 ## Others
-- I also write a summary and review of the book in Vietnamese, you can find it with the file named "book_review_vietnamese.pdf".
+- I also write a summary and review of the book in Vietnamese, you can find it with the file named "summary-and-review-data-science-for-supply-chain-forecasting.pdf".
